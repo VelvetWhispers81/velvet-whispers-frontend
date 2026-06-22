@@ -1,1 +1,0 @@
-# velvet-whispers-frontend
