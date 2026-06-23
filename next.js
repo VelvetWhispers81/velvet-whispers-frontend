@@ -1,1 +1,10 @@
-
+/app
+  /globals.css
+  /layout.js
+  /page.js
+  /content/page.js
+  /subscribe/page.js
+/public
+  /logo.png
+/package.json
+/next.config.js
