@@ -1,12 +1,17 @@
-export default function Home() {
+
+export default function ContentPage() {
   return (
     <main style={{ padding: 40 }}>
-      <h1>Velvet Whispers</h1>
-      <p>Soft spoken content. Early access. Exclusive whispers.</p>
+      <h1>Content Library</h1>
+      <p>Explore exclusive Velvet Whispers content.</p>
 
-      <a href="/content">View Content</a>
-      <br />
-      <a href="/subscribe">Subscribe</a>
+      <ul>
+        <li>Soft Spoken Stories</li>
+        <li>Whispered Affirmations</li>
+        <li>Early Access Audio</li>
+      </ul>
+
+      <a href="/">Back to Home</a>
     </main>
   );
 }
