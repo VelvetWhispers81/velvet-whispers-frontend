@@ -1,1 +1,7 @@
-npm install && npm run build && npm run export
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true
+};
+
+module.exports = nextConfig;
